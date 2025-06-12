@@ -6,7 +6,7 @@ A modern React & Next.js application to generate AI-powered cover letters based 
 
 ## Live Demo
 
-[Click here to view the live demo](https://ai-cover-letter-generator.vercel.app/)
+[Click here to view the live demo](https://ai-cover-letter-generator-three.vercel.app/)
 ---
 
 ![Banner](./public/demo.jpg)
